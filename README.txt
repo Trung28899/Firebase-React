@@ -1,4 +1,4 @@
-READ firebase.js and this doc first
+READ src/components/firebase.js and this doc first
 
 1. Tool used: 
 - firebase: 
